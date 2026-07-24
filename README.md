@@ -52,7 +52,7 @@ Curious by nature, I enjoy tackling challenges, figuring things out, exploring n
 ## 🤝 Connect With Me
 
 <a href="https://x.com/babygal_xoxo9">
-  <img src="https://cdn.simpleicons.org/x/FFFFFF" width="30"/>
+  <img src="https://cdn.simpleicons.org/x/ffffff" width="30"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/joy-esther-kehinde-55132238b/">
