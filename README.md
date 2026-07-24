@@ -19,17 +19,14 @@ Curious by nature, I enjoy tackling challenges, figuring things out, exploring n
 🔹 Responsive Web Development  
 
 ## 🤝 Connect With Me
+
 <a href="https://x.com/babygal_xoxo9">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/x.svg" width="30"/>
+  <img src="https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/joy-esther-kehinde-55132238b/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="30"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-## 📊 GitHub Stats
-
-![Esther's GitHub stats](https://github-readme-stats.vercel.app/api?username=BabyGal124&show_icons=true)
 
 
 
