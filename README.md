@@ -25,5 +25,5 @@ Curious by nature, I enjoy tackling challenges, figuring things out, exploring n
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/joy-esther-kehinde-55132238b/">
-  <img src="https://cdn.simpleicons.org/linkedin/FFFFFF" width="30"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" width="30"/>
 </a>
