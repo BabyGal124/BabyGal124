@@ -44,9 +44,12 @@ Curious by nature, I enjoy tackling challenges, figuring things out, exploring n
 </p>
 
 ## 🌱 Currently Learning
-🔹 JavaScript  
+🔹 JavaScript
+
 🔹 Frontend Best Practices  
+
 🔹 Git & GitHub Collaboration  
+
 🔹 Responsive Web Development  
 
 ## 🤝 Connect With Me
